@@ -1,0 +1,86 @@
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f5f8;
+  color: #333;
+}
+
+/* Estilos do cabeçalho */
+header {
+  background-color: #f29bc1;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+/* Estilos da navegação */
+nav {
+  background-color: #f9c4a5;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+/* Estilos do conteúdo principal */
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+article {
+  margin-bottom: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+article h2 {
+  color: #f29bc1;
+}
+
+article img {
+  width: 23%;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+article ul {
+  padding-left: 20px;
+}
+
+/* Estilos do rodapé */
+footer {
+  background-color: #f9c4a5;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
